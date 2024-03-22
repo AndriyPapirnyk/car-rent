@@ -53,7 +53,6 @@ const SearchManufacturer = ({manufacturer, setManufacturer} : SearchManufacturer
                                 >
                                     {item}
                                 </Combobox.Option>
-                            
                             ))
                         }
                     </Combobox.Options>
