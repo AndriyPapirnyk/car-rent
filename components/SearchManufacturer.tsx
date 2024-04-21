@@ -28,7 +28,7 @@ const SearchManufacturer = ({manufacturer, setManufacturer} : SearchManufacturer
                     src="/car-logo.svg"
                     width={20}
                     height={20}
-                    className="ml-4"
+                    className="w-[20px] h-[20px] ml-4 mt-3.5"
                     alt="Car logo"
                     />
                 </Combobox.Button>
